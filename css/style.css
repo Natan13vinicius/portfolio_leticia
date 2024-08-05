@@ -1,0 +1,651 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.topo-site {
+  width: 100%;
+  height: 800px;
+  background: url(../img/banner.png) no-repeat center center;
+  background-size: cover;
+}
+
+.topo-site h1 {
+  font-family: Poppins;
+  color: #fff;
+  font-size: 35px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 320px;
+}
+
+.topo-site p {
+  font-family: Montserrat;
+  color: #feec00;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.cor {
+  color: #feec00;
+}
+
+.btn {
+  border: none;
+  background: linear-gradient(#00c3fa, #0060eb);
+  padding: 23px;
+  color: #fff;
+  text-transform: uppercase;
+  font-family: Montserrat;
+  font-weight: bold;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.btn:hover {
+  background: linear-gradient(#3c3c3c, #010101);
+}
+
+/* S1 */
+
+.s1 h2 {
+  font-family: Poppins;
+  font-size: 35px;
+  color: #3a4a92;
+  font-weight: bold;
+  margin-top: 110px;
+}
+.s1 p {
+  font-family: Poppins;
+  font-weight: bold;
+  margin-top: 20px;
+}
+.imagem-s1 {
+  width: 100%;
+  padding-top: 220px;
+}
+
+/* S1 fim */
+
+/* S2 */
+
+.s2 {
+  background: url(../img/eletricista.png) no-repeat center center;
+  background-size: cover;
+  height: 478px;
+  margin-top: 110px;
+  margin-bottom: 80px;
+}
+
+.s2 h2 {
+  font-family: Poppins;
+  text-transform: uppercase;
+  font-size: 35px;
+  color: #fff;
+  font-weight: bold;
+  margin-top: 110px;
+}
+.s2 p {
+  font-family: Poppins;
+  color: #fff;
+  margin-top: 30px;
+}
+
+.img-eletricista {
+  margin-top: 77px;
+}
+
+/* S2 fim */
+
+/* S3 */
+
+.s3 h2 {
+  font-family: Poppins;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 30px;
+  color: #000;
+  font-weight: bold;
+  margin-top: 110px;
+}
+
+.cor2 {
+  color: #dfcf00;
+}
+
+.s3 li {
+  margin-top: 40px;
+  background: linear-gradient(#00c3fa, #0060eb);
+  width: 300px;
+  height: 400px;
+  border-radius: 30px 10px;
+  border-style: solid;
+  border-width: 0 0 3px 0;
+  border-color: #feec00;
+  box-shadow: 0 13px 21px 0 rgb(0 0 0/56%);
+  padding: 20px 20px 30px 20px;
+
+  margin-bottom: 50px;
+}
+.s3 li h3 {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: bold;
+  color: #fff;
+}
+.s3 li p {
+  font-family: Poppins;
+  color: #fff;
+  margin-top: 15px;
+}
+.s3 li img {
+  margin-bottom: 18px;
+}
+
+/* S3 fim */
+
+/* S4 */
+
+.s4 {
+  width: 100%;
+  height: 700px;
+  background-color: #fafafa;
+  margin-top: 80px;
+}
+
+.s4 h2 {
+  font-family: Poppins;
+  font-size: 30px;
+  text-transform: uppercase;
+  color: #000;
+  /* font-weight: bold; */
+}
+
+.s4 p {
+  font-family: Poppins;
+  font-weight: italic;
+  color: gray;
+  text-transform: uppercase;
+  margin-top: 50px;
+}
+
+.s4 ul {
+  padding-top: 30px;
+}
+
+.s4 li {
+  font-family: Poppins;
+  font-weight: bold;
+  font-size: 15px;
+  color: gray;
+}
+
+.img-eletricista2 {
+  margin-top: 50px;
+  border-radius: 20px;
+  box-shadow: 0 13px 21px 0 rgb(0 0 0/56%);
+}
+
+.fa-solid {
+  margin-right: 10px;
+  color: #feae1b;
+}
+
+.cta .botao {
+  margin-top: 40px;
+}
+
+.cor3 {
+  color: #6a6a6a;
+}
+
+/* S4 fim */
+
+/* S5 fim */
+
+.mapa {
+  width: 100%;
+  height: 550px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.s5 h2 {
+  font-family: Poppins;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 30px;
+  color: #000;
+  font-weight: bold;
+  margin-top: 80px;
+}
+
+/* S5 fim */
+
+/* S6 */
+
+.s6 {
+  width: 100%;
+  height: 700px;
+  background-color: #fafafa;
+  margin-top: 80px;
+}
+
+.s6 h2 {
+  font-family: Poppins;
+  font-size: 30px;
+
+  color: #000;
+  font-weight: bold;
+  margin-top: 60px;
+}
+
+.s6 p {
+  font-family: Poppins;
+  font-weight: italic;
+  color: #000;
+}
+
+.s6 ul {
+  padding-top: 30px;
+}
+
+.s6 li {
+  font-family: Poppins;
+  font-weight: bold;
+  font-size: 18px;
+  color: black;
+}
+
+.canais h3 {
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 30px;
+  color: blue;
+}
+.canais p {
+  margin-top: 10px;
+}
+
+.img-eletrica {
+  margin-top: 140px;
+}
+
+/* S6 fim */
+
+/* S7 */
+
+.s7 {
+  background: url(../img/depoimento.jpg) no-repeat center center;
+  height: 650px;
+  margin-top: 110px;
+}
+
+.s7 h2 {
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+  margin-top: 30px;
+}
+
+.depoimentos li {
+  height: 450px;
+  margin-top: 40px;
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(3.7px);
+  -webkit-backdrop-filter: blur(3.7px);
+  border: 1px solid rgba(31, 86, 255, 0.47);
+  background: rgba(31, 86, 255, 0.47);
+  text-align: center;
+  margin-top: 60px;
+}
+
+.depoimentos h3 {
+  font-family: Poppins;
+  font-size: 25px;
+  font-weight: bold;
+  color: #fff;
+  margin-top: 5px;
+}
+
+.depoimentos p {
+  font-family: Poppins;
+  font-size: 15px;
+  color: #fff;
+  margin-top: 5px;
+}
+
+.img-depoimentos {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+  -o-object-fit: cover;
+  margin-top: 30px;
+}
+
+/* S7 fim */
+
+/* S8 */
+
+.s8 {
+  width: 100%;
+  height: 700px;
+  background-color: #020524;
+  text-align: center;
+}
+
+.s8 .img-garantia {
+  margin-top: 60px;
+}
+
+.s8 h2 {
+  font-family: Poppins;
+  font-size: 28px;
+  font-weight: bold;
+  color: #fff;
+  margin-top: 30px;
+}
+
+.s8 p {
+  font-family: Poppins;
+  font-size: 18px;
+  color: #fff;
+  margin-top: 5px;
+}
+
+.s8 .btn {
+  margin-top: 50px;
+}
+
+/* S8 fim */
+
+/* S9  */
+
+.s9 {
+  height: 350px;
+  background-color: #ffa500;
+}
+
+.img-footer {
+  margin-top: -122px;
+}
+
+.s9 h2 {
+  font-family: Poppins;
+  font-size: 28px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: left;
+  color: #fff;
+  margin-top: 80px;
+}
+
+.s9 p {
+  font-family: Poppins;
+  font-size: 15px;
+  color: #000;
+  margin-top: 10px;
+}
+
+/* S9 fim */
+
+/* S10 */
+
+.footer {
+  height: 50px;
+  width: 100%;
+  background: #000;
+}
+
+.footer h2 {
+  color: #fff;
+  text-align: center;
+  font-family: Poppins;
+  padding-top: 12px;
+}
+
+/* S10 fim */
+
+.voltar {
+  position: absolute;
+  left: 90%;
+  margin-top: -80px;
+}
+
+/*Tablet*/
+
+@media (min-width: 768px) and (max-width: 959px) {
+  .topo-do-site {
+    background: url(../img/banner-tablet.png);
+    background-size: cover;
+  }
+
+  .topo-site h1 {
+    font-size: 32px;
+    margin-top: 260px;
+  }
+
+  .imagem-s1 {
+    display: none;
+  }
+
+  .s1 h2 {
+    font-size: 28px;
+  }
+
+  .img-eletricista {
+    margin: 161px 0 0 0;
+  }
+
+  .s2 h2 {
+    font-size: 31px;
+    margin-top: 65px;
+  }
+
+  .secao-4 h2,
+  .secao-6 h2 {
+    font-size: 25px;
+  }
+
+  .s3 li {
+    width: 235px;
+  }
+
+  .s3 li p {
+    font-size: 15px;
+  }
+
+  .s3 li h3 {
+    font-size: 18px;
+  }
+  .s4 {
+    height: 560px;
+  }
+
+  .s4 h2 {
+    font-size: 25px;
+  }
+
+  .s6 h2 {
+    font-size: 26px;
+    margin-top: 20px;
+  }
+  .s6 p {
+    font-size: 16px;
+    margin-top: 5px;
+  }
+
+  .profissional {
+    margin-top: -57px;
+  }
+
+  .img-depoimentos {
+    width: 180px;
+    height: 180px;
+  }
+
+  .depoimentos p {
+    font-size: 14px;
+    padding: 8px;
+  }
+
+  .img-footer {
+    margin-top: -24px;
+  }
+
+  .voltar {
+    left: 94%;
+  }
+}
+
+/*Smartphone*/
+
+@media (max-width: 768px) {
+  .topo-site {
+    background-image: url(../img/banner-cel.png);
+  }
+
+  .topo-site h1 {
+    margin-top: 10px;
+    font-size: 30px;
+  }
+
+  header .btn {
+    margin-top: 270px;
+    margin-bottom: 80px;
+  }
+
+  .img-eletricista2,
+  .img-eletricista,
+  .img-eletrica,
+  .imagem-s1 {
+    display: none;
+  }
+
+  .s1 h2 {
+    margin-top: 20px;
+    font-size: 28px;
+  }
+
+  .s1 {
+    height: 1050px;
+  }
+
+  .s1 h2 {
+    margin-top: -40px;
+  }
+
+  .s2 h2 {
+    margin-top: 95px;
+    font-size: 28px;
+  }
+
+  .s2 h2 {
+    margin-top: 60px;
+  }
+
+  .s3 {
+    height: 865px;
+  }
+
+  .s3 h2 {
+    margin-top: -560px;
+  }
+
+  .s3 h2,
+  .s5 h2,
+  .s6 h2,
+  .s7 h2 {
+    font-size: 25px;
+  }
+
+  .s5 h2 {
+    margin-top: 40px;
+  }
+
+  .s5 iframe {
+    height: 400px;
+  }
+
+  .s6 {
+    height: 800px;
+    margin-top: -53px;
+    margin-bottom: 0px;
+  }
+
+  .s6 h2 {
+    margin-top: 50px;
+  }
+
+  .s6 .btn {
+    margin-top: 40px;
+  }
+
+  .s7 {
+    margin-top: 1px;
+    margin-bottom: 0px;
+  }
+
+  .s7 {
+    height: 600px;
+  }
+
+  .depoimentos li {
+    height: 350px;
+  }
+
+  .img-depoimentos {
+    width: 100px;
+    height: 100px;
+  }
+
+  .depoimentos li:nth-child(2) {
+    display: none;
+  }
+  .depoimentos li:nth-child(3) {
+    display: none;
+  }
+
+  .s8 {
+    height: 790px;
+  }
+
+  .s9 {
+    height: 700px;
+  }
+
+  .s9 h2 {
+    margin-top: 20px;
+  }
+
+  .img-footer {
+    border-radius: 500px;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    width: 300px;
+    height: 300px;
+    -o-object-fit: cover;
+    margin-top: 30px;
+  }
+
+  .residencial {
+    height: 2690px;
+  }
+
+  .projeto-eletrico {
+    height: 1870px;
+  }
+
+  .chuveiro-eletrico {
+    height: 2150px;
+  }
+
+  .s3 {
+    margin-top: 600px;
+  }
+}
